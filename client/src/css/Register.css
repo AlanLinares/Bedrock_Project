@@ -1,0 +1,55 @@
+.register-container {
+    padding: 40px;
+    height: 680px;
+    width: 700px;
+    text-align: center;
+}
+
+.register-container h1 {
+    letter-spacing: 2px;
+    font-weight: normal;
+    font-size: 38px;
+}
+
+
+.input-field-container {
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+}
+
+.address-field-container {
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+
+form {
+    margin-top: 40px;
+}
+
+
+.input-container {
+    margin: 25px auto 20px auto;
+    text-align: left;
+}
+
+.address-input-container {
+    margin: 25px auto 20px auto;
+    text-align: left;
+}
+
+.register-container label {
+    margin: 0 20px;
+}
+.register-container input {
+    border: 1px solid #242866;
+    margin: 10px 0;
+    padding: 20px 30px;
+    width: 240px;
+    display: block;
+}
+
+.register-container Button {
+    margin-top: 20px;
+}
